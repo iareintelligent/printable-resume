@@ -14,12 +14,3 @@ body {
     display: flex;
     flex-wrap: nowrap;
 }
-
-
-
-/*@media print{*/
-/*    body {*/
-/*        font-size: 12pt;*/
-/*        width: 992px;*/
-/*    }*/
-/*}*/
